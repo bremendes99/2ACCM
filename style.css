@@ -14,8 +14,8 @@ body {
     }
     
     .cabecalho__imagem {
-    width: 130px;
-    height: 160px;
+    width: 201px;
+    height: 195px;
     }
     
     .cabecalho__menu{
@@ -24,6 +24,6 @@ body {
     
     .cabecalho__menu-item{
     display: inline;
-    margin-left: 20px;
-    font-size: 32px;
+    margin-left: 200px;
+    font-size: 25px;
     }
